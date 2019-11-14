@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @font-face {
   font-family: "Roboto-Regular";
   src: url("../fonts/Roboto-Regular.ttf");
@@ -445,7 +445,7 @@ h1, h2, h3, h4, h5, h6 {
         -webkit-box-pack: justify;
         -ms-flex-pack: justify;
         justify-content: space-between;
-        width: 154px; }
+        width: 160px; }
         .logo-block .data .basket .basket-link .basket-img {
           width: 40px;
           height: 40px;
